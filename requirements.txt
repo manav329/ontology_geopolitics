@@ -1,7 +1,10 @@
 neo4j
 python-dotenv
 pycountry
-
+networkx
+scipy
+python-louvain
+pyarrow
 # upcoming modules
 fastapi
 uvicorn
